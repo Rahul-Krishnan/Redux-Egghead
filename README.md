@@ -4,11 +4,11 @@
 
 # Egghead.io Redux Tutorial
 
-A to-do-app made following the egghead.io tutorial (The Immutable State Tree)
+A to-do-app made following the egghead.io tutorial
 
 ### Features
 
--
+- 
 
 ## Deployment
 
